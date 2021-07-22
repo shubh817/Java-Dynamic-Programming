@@ -1,3 +1,25 @@
+/*
+Reaching to the top of a staircase, it takes n steps.
+The task can be accomplished either by climbing 1 step or 2 steps at a time.
+In how many different ways can you climb to the top.
+Note: n will be a positive integer.
+
+Input Format
+First line contains an integer n.
+
+Constraints
+None
+
+Output Format
+Print the total number of distinct ways you can climb to top.
+
+Sample Input
+2
+Sample Output
+2
+Explanation
+None
+*/
 import java.util.Arrays;
 import java.util.*;
 public class Main {
